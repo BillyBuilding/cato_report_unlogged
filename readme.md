@@ -1,6 +1,6 @@
 # Cato Networks Inactive User Reporter
 
-This PowerShell script queries the Cato Networks API to identify users who have not connected to the VPN for more than one month. It retrieves user details including their last connection time, device name, and the country of their last connection.
+This PowerShell script queries the Cato Networks API to identify users who have not connected to the VPN for more than one month. It retrieves user details including their last connection time, device name, and the country of their last connection. You can upload this script in your azure environment and make it run thourgh a runbook or a logic app.
 
 ## Prerequisites
 
