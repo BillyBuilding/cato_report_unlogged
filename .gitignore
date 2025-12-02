@@ -1,0 +1,14 @@
+# PowerShell
+*.ps1.xml
+*.psm1.xml
+*.psd1.xml
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Secrets and Config
+config.json
+secrets.ps1
+*.env
